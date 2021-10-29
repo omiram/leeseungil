@@ -1,0 +1,14 @@
+body {
+  background: linear-gradient(to top right, #99ff99 0%, #ff99cc 100%);
+  margin:0;
+}
+
+
+h1 {
+  font-size:20px;
+  text-align: center;
+  border-bottom:1px solid gray;
+  margin:0;
+  padding:20px;
+
+}
